@@ -1,15 +1,5 @@
 package LinkedList;
 
-import java.util.List;
-
-class ListNode{
-    int val;
-    ListNode next;
-
-  public ListNode(int val){
-      this.val = val;
-  }
-}
 public class reverselinkedlist {
 
     public static ListNode reverseList(ListNode a){
